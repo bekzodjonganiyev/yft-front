@@ -65,7 +65,7 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-2 my-3">
                 <Email />
-                <span className="text-white"> mirza.kohkan@gmail.com</span>
+                <span className="text-white">info@yangiyerflourtrading.uz</span>
               </div>
 
               <div className="flex items-center gap-2 my-3">
